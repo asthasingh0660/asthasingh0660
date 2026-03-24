@@ -68,7 +68,7 @@
 
 ## Featured Projects
 
-### [DevTranspiler — AI-Powered Code Transpiler](https://github.com/asthasingh0660)
+### [DevTranspiler — AI-Powered Code Transpiler](https://github.com/asthasingh0660/DevTranspiler)
 `FastAPI` `React` `Node.js` `Bull` `Redis` `PostgreSQL` `Docker` `Nginx` `5 cloud platforms`
 
 LLM-powered code transpilation across 11+ languages using a distributed async architecture with Bull + Redis job queue separating API ingestion from LLM inference — enabling non-blocking requests and horizontal worker scaling.
@@ -80,7 +80,7 @@ LLM-powered code transpilation across 11+ languages using a distributed async ar
 
 ---
 
-### [Voice-Enabled RAG Customer Support Agent](https://github.com/asthasingh0660)
+### [Voice-Enabled RAG Customer Support Agent](https://github.com/asthasingh0660/HuggingFace_voice_customer_support_agent)
 `Python` `LangChain` `Whisper` `ElevenLabs` `Streamlit`
 
 Voice-first RAG support agent over HuggingFace documentation using Whisper (STT) and ElevenLabs (TTS), with hybrid semantic + keyword retrieval and multi-LLM routing.
